@@ -8,8 +8,9 @@
 ## 框架
 
 #### 关于Vue和React的一些对比及个人思考系列
-
 [关于Vue和React的一些对比及个人思考（上）](./关于Vue和React的一些对比及个人思考（上）.md)
+<br>
+[关于Vue和React的一些对比及个人思考（中）](./关于Vue和React的一些对比及个人思考（中）.md)
 
 [react hooks入门](./react-hooks.md)
 
